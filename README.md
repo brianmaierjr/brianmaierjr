@@ -1,3 +1,3 @@
-### 👋 Hi, I'm Brian. 
+# 👋 Hi, I'm Brian. 
 
-## More to come here soon!
+## I'm working on an image for this readme right now.
