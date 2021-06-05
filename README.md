@@ -1,3 +1,1 @@
-# 👋 Hi, I'm Brian. 
-
-## I'm working on an image for this readme right now.
+![Banner image for Brian Maier Jr's GitHub Profile](/assets/header.svg)
